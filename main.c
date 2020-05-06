@@ -1,6 +1,6 @@
 #include <stdio.h> 
 #include "calculate.h"
-
+//artem
 int
 main (void)
 {
