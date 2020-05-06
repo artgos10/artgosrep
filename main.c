@@ -13,5 +13,5 @@ main (void)
 	scanf("%s",Operation);
 	Result = Calculate(Numeral, Operation); 
 	printf("%6.2f\n",Result);
-	return 0;
+	return 10;
 }
